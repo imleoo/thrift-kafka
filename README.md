@@ -1,4 +1,4 @@
 thrift-kafka
 ============
 
-thrift within kafka
+thrift server within kafka
